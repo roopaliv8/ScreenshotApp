@@ -34,11 +34,10 @@ yarn android
 
 ### For iOS
 
-go to ios folder and run 
-
+```bash
+# go to ios folder and run 
 pod install
 
-```bash
 # using npm
 npm run ios
 
